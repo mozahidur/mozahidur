@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Mozahidur Rahaman  
+🎓 B.Tech CSE Student | 💻 Web Developer | 🌐 Tech Enthusiast  
 
-<!--
-**mozahidur/mozahidur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning **Full Stack Web Development**  
+- 💡 Exploring **React, Next.js, and Supabase**  
+- 📚 Passionate about building **real-world projects**  
+- 🤝 Open to collaboration and contributing to open source  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- **Languages:** C, C++, Java, JavaScript, Python  
+- **Frontend:** HTML, CSS, Tailwind, React.js, Next.js  
+- **Backend:** Node.js, Express.js  
+- **Databases:** Firebase, MongoDB, Supabse  
+- **Tools:** Git, GitHub, VS Code  
+
+
+---
+
+## 🌐 Connect With Me
+- 📧 Email: yourmail@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mozahidur07/)  
+- 🌍 [Portfolio Website](https://mozahidur.vercel.app/)  
