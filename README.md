@@ -22,6 +22,6 @@
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: yourmail@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mozahidur07/)  
+- 📧 Email: dev.mozahidur@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mozahidur07/)
 - 🌍 [Portfolio Website](https://mozahidur.vercel.app/)  
